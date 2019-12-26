@@ -47,7 +47,6 @@ const students = [
 ];
 
 let input = document.getElementById("InID");
-
 let txt1 = document.getElementById("Names");
 let txt2 = document.getElementById("Ages");
 let txt3 = document.getElementById("Gender");
